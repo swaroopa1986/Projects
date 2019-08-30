@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="writings.Usingaccounts">
+        <methods>
+          <include name="trans"/>
+          <include name="setup"/>
+          <include name="A"/>
+          <include name="contact"/>
+          <include name="f"/>
+          <include name="apply"/>
+          <include name="P"/>
+        </methods>
+      </class> <!-- writings.Usingaccounts -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

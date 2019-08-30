@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="25" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-29T03:15:47Z" name="Suite" finished-at="2019-08-29T03:22:02Z" duration-ms="375131">
+    <groups>
+    </groups>
+    <test started-at="2019-08-29T03:15:47Z" name="Test" finished-at="2019-08-29T03:22:02Z" duration-ms="375131">
+      <class name="writings.Forgetlogininfo">
+        <test-method signature="A()[pri:0, instance:writings.Forgetlogininfo@6f4a47c7]" started-at="2019-08-29T03:15:47Z" name="A" finished-at="2019-08-29T03:16:32Z" duration-ms="44618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+      </class> <!-- writings.Forgetlogininfo -->
+      <class name="writings.Home">
+        <test-method signature="aboutus()[pri:1, instance:writings.Home@ae13544]" started-at="2019-08-29T03:17:03Z" name="aboutus" finished-at="2019-08-29T03:17:52Z" duration-ms="48895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus -->
+        <test-method signature="services()[pri:2, instance:writings.Home@ae13544]" started-at="2019-08-29T03:18:04Z" name="services" finished-at="2019-08-29T03:18:32Z" duration-ms="28900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- services -->
+        <test-method signature="locations()[pri:3, instance:writings.Home@ae13544]" started-at="2019-08-29T03:18:54Z" name="locations" finished-at="2019-08-29T03:19:10Z" duration-ms="15937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locations -->
+        <test-method signature="adminpage()[pri:4, instance:writings.Home@ae13544]" started-at="2019-08-29T03:19:36Z" name="adminpage" finished-at="2019-08-29T03:20:01Z" duration-ms="24397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminpage -->
+      </class> <!-- writings.Home -->
+      <class name="writings.Usinglogin">
+        <test-method signature="L()[pri:0, instance:writings.Usinglogin@4009e306]" started-at="2019-08-29T03:15:47Z" name="L" finished-at="2019-08-29T03:16:30Z" duration-ms="42880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- L -->
+      </class> <!-- writings.Usinglogin -->
+      <class name="writings.TryTestng">
+        <test-method signature="trypage()[pri:0, instance:writings.TryTestng@7dc0f706]" started-at="2019-08-29T03:15:47Z" name="trypage" finished-at="2019-08-29T03:17:03Z" duration-ms="75692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trypage -->
+      </class> <!-- writings.TryTestng -->
+      <class name="writings.ProductTestng">
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:17:03Z" name="setup" finished-at="2019-08-29T03:17:30Z" duration-ms="26810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="trypara()[pri:1, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:17:30Z" name="trypara" finished-at="2019-08-29T03:18:04Z" duration-ms="33856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trypara -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:18:04Z" name="setup" finished-at="2019-08-29T03:18:12Z" duration-ms="8348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="customerportal()[pri:2, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:18:12Z" name="customerportal" finished-at="2019-08-29T03:18:54Z" duration-ms="42231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerportal -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:18:54Z" name="setup" finished-at="2019-08-29T03:18:56Z" duration-ms="2282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forum()[pri:3, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:18:56Z" name="forum" finished-at="2019-08-29T03:19:36Z" duration-ms="39840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forum -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:19:36Z" name="setup" finished-at="2019-08-29T03:19:40Z" duration-ms="4222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="market()[pri:4, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:19:40Z" name="market" finished-at="2019-08-29T03:20:19Z" duration-ms="38886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- market -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:20:19Z" name="setup" finished-at="2019-08-29T03:20:26Z" duration-ms="6646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="blog()[pri:5, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:20:26Z" name="blog" finished-at="2019-08-29T03:20:49Z" duration-ms="23055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blog -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:20:49Z" name="setup" finished-at="2019-08-29T03:20:53Z" duration-ms="3895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="support()[pri:6, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:20:53Z" name="support" finished-at="2019-08-29T03:21:04Z" duration-ms="11540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:04Z" name="setup" finished-at="2019-08-29T03:21:08Z" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contact()[pri:7, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:08Z" name="contact" finished-at="2019-08-29T03:21:16Z" duration-ms="8005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:16Z" name="setup" finished-at="2019-08-29T03:21:20Z" duration-ms="4193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="lang()[pri:8, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:20Z" name="lang" finished-at="2019-08-29T03:21:41Z" duration-ms="20662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lang -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:41Z" name="setup" finished-at="2019-08-29T03:21:49Z" duration-ms="8351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search()[pri:9, instance:writings.ProductTestng@3d34d211]" started-at="2019-08-29T03:21:49Z" name="search" finished-at="2019-08-29T03:22:02Z" duration-ms="12702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- writings.ProductTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
